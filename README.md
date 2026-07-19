@@ -13,4 +13,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
