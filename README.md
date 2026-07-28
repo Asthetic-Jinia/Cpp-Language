@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0344-reverse-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0014-longest-common-prefix) |
 | [1260-shift-2d-grid](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/1260-shift-2d-grid) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
