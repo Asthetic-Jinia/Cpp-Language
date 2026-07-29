@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
