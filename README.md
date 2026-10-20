@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0014-longest-common-prefix) |
+| [0078-subsets](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0078-subsets) |
 | [1260-shift-2d-grid](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Asthetic-Jinia/Cpp-Language/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
